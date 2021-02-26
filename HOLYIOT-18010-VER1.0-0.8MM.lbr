@@ -313,6 +313,10 @@
 <text x="27.94" y="-1.524" size="1.27" layer="27" font="vector">&gt;VALUE</text>
 <rectangle x1="26.67" y1="15.24" x2="42.545" y2="19.685" layer="41"/>
 <rectangle x1="26.67" y1="15.24" x2="42.545" y2="19.685" layer="42"/>
+<circle x="29.21" y="17.78" radius="2.54" width="0.127" layer="46"/>
+<circle x="39.878" y="17.78" radius="2.54" width="0.127" layer="46"/>
+<wire x1="29.21" y1="20.32" x2="39.878" y2="20.32" width="0.127" layer="46"/>
+<wire x1="39.878" y1="15.24" x2="29.21" y2="15.24" width="0.127" layer="46"/>
 </package>
 </packages>
 <symbols>
